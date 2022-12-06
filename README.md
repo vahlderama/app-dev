@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1 
+# My Favorite Series
 - Has many arcs
 - Writted by Oda
 - Good plot
